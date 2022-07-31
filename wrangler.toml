@@ -1,7 +1,8 @@
-name = "helloworld"
-type = "javascript"
+name = "jsproj"
+type = "Webpack"
 
-account_id = ""
+account_id = "2c2816a5d19967d832dbe6e82a8b5008"
 workers_dev = true
 route = ""
 zone_id = ""
+compatibility_date = "2022-06-28"
